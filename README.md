@@ -25,6 +25,12 @@ codexmonitor show <session-id>        # Show a session
 codexmonitor watch                    # Watch all sessions live
 ```
 
+## Documentation
+
+- [SKILL.md](SKILL.md) — agent-facing reference (commands, behavior, limitations)
+- [SETUP.md](SETUP.md) — prerequisites, configuration, and setup instructions
+- [ClawHub](https://www.clawhub.com/skills/codexmonitor) — install via ClawHub registry
+
 ## License
 
 MIT
